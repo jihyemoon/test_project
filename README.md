@@ -1,1 +1,1 @@
-# My Project
+# My Java Project
